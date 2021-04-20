@@ -1,5 +1,5 @@
 #myBar1 {
-    width: 50%;
+    width: 40%;
     height: 50px;
     background-image: linear-gradient(to top, #b721ff 0%, #ff8177 100%);
     animation: fade-in 5s ease-in infinite;

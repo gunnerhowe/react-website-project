@@ -73,6 +73,38 @@
 }
 
 
+.contactsection button {
+  background-color: transparent;
+  color: #242424;
+  padding: 8px 20px;
+  border: 1px solid var(--primary);
+  transition: all 0.3s ease-out;
+}
+
+.contactsection:hover button {
+  transition: all 0.3s ease-out;
+  background: #242424;
+  color: #fff;
+  transition: 250ms;
+}
+
+.contactsection a {
+  background-color: transparent;
+  color: #242424;
+  font-size: 1.5rem;
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+}
+
+.contactsection:hover a {
+  background-color: transparent;
+  color: #fff;
+  font-size: 2rem;
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+}
+
+
   
   @media only screen and (min-width: 1200px) {
     .content__blog__container {
